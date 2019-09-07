@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/SlideView-React/static/css/main.42a4964f.chunk.css",
-    "main.js": "/SlideView-React/static/js/main.df97f359.chunk.js",
-    "main.js.map": "/SlideView-React/static/js/main.df97f359.chunk.js.map",
+    "main.css": "/SlideView-React/static/css/main.512db11c.chunk.css",
+    "main.js": "/SlideView-React/static/js/main.f036bbb1.chunk.js",
+    "main.js.map": "/SlideView-React/static/js/main.f036bbb1.chunk.js.map",
     "runtime~main.js": "/SlideView-React/static/js/runtime~main.28386065.js",
     "runtime~main.js.map": "/SlideView-React/static/js/runtime~main.28386065.js.map",
     "static/css/2.38e09110.chunk.css": "/SlideView-React/static/css/2.38e09110.chunk.css",
-    "static/js/2.4ec30ea5.chunk.js": "/SlideView-React/static/js/2.4ec30ea5.chunk.js",
-    "static/js/2.4ec30ea5.chunk.js.map": "/SlideView-React/static/js/2.4ec30ea5.chunk.js.map",
+    "static/js/2.ea0d3845.chunk.js": "/SlideView-React/static/js/2.ea0d3845.chunk.js",
+    "static/js/2.ea0d3845.chunk.js.map": "/SlideView-React/static/js/2.ea0d3845.chunk.js.map",
     "index.html": "/SlideView-React/index.html",
-    "precache-manifest.be3e289a20a66ed76859a6bbf02fdff9.js": "/SlideView-React/precache-manifest.be3e289a20a66ed76859a6bbf02fdff9.js",
+    "precache-manifest.80f57145388de73a173782ce2a685adf.js": "/SlideView-React/precache-manifest.80f57145388de73a173782ce2a685adf.js",
     "service-worker.js": "/SlideView-React/service-worker.js",
     "static/css/2.38e09110.chunk.css.map": "/SlideView-React/static/css/2.38e09110.chunk.css.map",
-    "static/css/main.42a4964f.chunk.css.map": "/SlideView-React/static/css/main.42a4964f.chunk.css.map",
+    "static/css/main.512db11c.chunk.css.map": "/SlideView-React/static/css/main.512db11c.chunk.css.map",
     "static/media/1.jpg": "/SlideView-React/static/media/1.ca16d590.jpg",
     "static/media/2.jpg": "/SlideView-React/static/media/2.d547e278.jpg",
     "static/media/3.jpg": "/SlideView-React/static/media/3.41e64845.jpg",
-    "static/media/slick-theme.css": "/SlideView-React/static/media/slick.f97e3bbf.svg"
+    "static/media/slick-theme.css": "/SlideView-React/static/media/slick.f97e3bbf.svg",
+    "static/media/svg.svg": "/SlideView-React/static/media/svg.d51c4cbd.svg"
   }
 }

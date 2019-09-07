@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe6e4d68b40dc7f5fa958a4739688454",
+    "revision": "3fabbb0773953aaec9bf64d4031de202",
     "url": "/SlideView-React/index.html"
   },
   {
-    "revision": "082292901adc0ddc54c6",
+    "revision": "378d346dd7d75f3ca98e",
     "url": "/SlideView-React/static/css/2.38e09110.chunk.css"
   },
   {
-    "revision": "08a405c439da36b27d3b",
-    "url": "/SlideView-React/static/css/main.42a4964f.chunk.css"
+    "revision": "b9aa4f41323177dee070",
+    "url": "/SlideView-React/static/css/main.512db11c.chunk.css"
   },
   {
-    "revision": "082292901adc0ddc54c6",
-    "url": "/SlideView-React/static/js/2.4ec30ea5.chunk.js"
+    "revision": "378d346dd7d75f3ca98e",
+    "url": "/SlideView-React/static/js/2.ea0d3845.chunk.js"
   },
   {
-    "revision": "08a405c439da36b27d3b",
-    "url": "/SlideView-React/static/js/main.df97f359.chunk.js"
+    "revision": "b9aa4f41323177dee070",
+    "url": "/SlideView-React/static/js/main.f036bbb1.chunk.js"
   },
   {
     "revision": "847cb02abe540adccb3e",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/SlideView-React/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "d51c4cbdf58ed633c094cc393e644e66",
+    "url": "/SlideView-React/static/media/svg.d51c4cbd.svg"
   }
 ]);
