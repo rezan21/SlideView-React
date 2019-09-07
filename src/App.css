@@ -32,6 +32,19 @@ link:active {
   width: 700px;
   border: 1px solid rgba(85, 83, 83, 0.452);
 }
+.container {
+  margin-top: 3px;
+  border: 2px solid black;
+  text-align: center;
+  cursor: pointer;
+}
+.show {
+  display: block;
+  transition: all ease 5000ms;
+}
+.hide {
+  display: none;
+}
 
 @media (max-width: 990px) {
   .app-wrapper {

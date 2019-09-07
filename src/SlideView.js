@@ -6,7 +6,7 @@ import 'slick-carousel/slick/slick-theme.css';
 import image1 from './1.jpg';
 import image2 from './2.jpg';
 import image3 from './3.jpg';
-
+import Toggle from './Toggle';
 const Wrapper = styled.div``;
 const Page = styled.div`
   width: 100%;
@@ -26,6 +26,7 @@ export default class SlideView extends React.Component {
             <img src={image1} alt='' style={slidesStyle} />
             <p style={{ textAlign: 'center' }}>Image 1</p>
           </Page>
+
           <Page>
             <img src={image2} alt='' style={slidesStyle} />
             <p style={{ textAlign: 'center' }}>Image 2</p>
@@ -34,6 +35,7 @@ export default class SlideView extends React.Component {
             <img src={image3} alt='' style={slidesStyle} />
             <p style={{ textAlign: 'center' }}>Image 3</p>
           </Page>
+          <Toggle />
         </Slider>
       </Wrapper>
     );
